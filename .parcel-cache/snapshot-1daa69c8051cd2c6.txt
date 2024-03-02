@@ -1,4 +1,4 @@
-5986
+5988
 31D:\free\node_modules\is-extglob133536991411007355 1
 36D:\free\node_modules\is-glob\LICENSE133536991410017324 0
 20D:\free\package.json133537875623368416 0
@@ -12,7 +12,7 @@
 40D:\free\node_modules\svgo\lib\types.d.ts133536991416257341 0
 93D:\free\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\process.js133536991411377334 0
 27D:\free\node_modules\semver133536991418167347 1
-14D:\free\app.js133537874485668195 0
+14D:\free\app.js133537876104166382 0
 45D:\free\node_modules\css-tree\lib\syntax\node133536991425167349 1
 60D:\free\node_modules\css-tree\cjs\syntax\node\WhiteSpace.cjs133536991422597338 0
 37D:\free\node_modules\posthtml\license133536991410037329 0
@@ -38,7 +38,7 @@
 35D:\free\node_modules\.bin\json5.ps1133536993090367090 0
 102D:\free\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\subselects.js133536991413467338 0
 29D:\free\node_modules\svgo\lib133536991416327347 1
-12D:\free\dist133537875742387505 1
+12D:\free\dist133537883409281359 1
 66D:\free\node_modules\@parcel\optimizer-htmlnano\lib\svgMappings.js133536991464478281 0
 17D:\free\index.css133536102066175773 0
 66D:\free\node_modules\caniuse-lite\data\features\referrer-policy.js133536991429307374 0
@@ -55,7 +55,7 @@
 57D:\free\node_modules\caniuse-lite\dist\unpacker\region.js133536991429317340 0
 25D:\free\node_modules\.bin133536996319407756 1
 39D:\free\node_modules\@parcel\plugin\lib133536991416197343 1
-18D:\free\index.html133537014181076334 0
+18D:\free\index.html133537882287863428 0
 52D:\free\node_modules\caniuse-lite\data\regions\CU.js133536991424997351 0
 68D:\free\node_modules\@parcel\resolver-default\src\DefaultResolver.js133536991437077189 0
 61D:\free\node_modules\css-select\lib\pseudo-selectors\index.js133536991414167342 0
@@ -2195,7 +2195,7 @@
 59D:\free\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in133536991422407356 0
 54D:\free\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133536991417457352 0
 46D:\free\node_modules\browserslist\package.json133536991412647349 0
-34D:\free\dist\index.5baa4167.js.map133537001869305269 0
+34D:\free\dist\index.5baa4167.js.map133537876099832238 0
 54D:\free\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133536991422207341 0
 50D:\free\node_modules\caniuse-lite\data\browsers.js133536991420417352 0
 64D:\free\node_modules\caniuse-lite\data\features\console-basic.js133536991422127350 0
@@ -5268,6 +5268,7 @@
 69D:\free\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\api133536991413577340 1
 70D:\free\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\l10n133536991412657350 1
 75D:\free\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\README.md133536991416127349 0
+30D:\free\dist\index.fcadf84e.js133537883409124501 0
 79D:\free\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\l10n\css.json133536991413067334 0
 79D:\free\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\l10n\index.js133536991411857381 0
 51D:\free\node_modules\@parcel\core\lib\AssetGraph.js133536991470939632 0
@@ -5979,9 +5980,10 @@
 62D:\free\node_modules\.bin\node-gyp-build-optional-packages.cmd133536993090367090 0
 36D:\free\node_modules\.bin\semver.ps1133536993090387090 0
 30D:\free\node_modules\.bin\svgo133536993090367090 0
-30D:\free\dist\index.5baa4167.js133537001869225277 0
+30D:\free\dist\index.5baa4167.js133537876099716041 0
 30D:\free\dist\index.76015287.js133537875742287785 0
 34D:\free\dist\index.76015287.js.map133537875742377501 0
-31D:\free\dist\index.9e4c6fd2.css133537001868543254 0
-35D:\free\dist\index.9e4c6fd2.css.map133537001868593313 0
-23D:\free\dist\index.html133537875742277709 0
+31D:\free\dist\index.9e4c6fd2.css133537875861151499 0
+35D:\free\dist\index.9e4c6fd2.css.map133537875861191215 0
+34D:\free\dist\index.fcadf84e.js.map133537883409271324 0
+23D:\free\dist\index.html133537883409124501 0
